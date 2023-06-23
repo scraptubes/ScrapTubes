@@ -53,16 +53,22 @@ It also includes a TikTok signature/encryption protocol service for many use cas
 •	Shape parameters
 
 
-✨ Device Registration
+✨ TikTok Device Registration
 
 •	TTEncrypt
 
 •	MSSDK encrypt/report
 
 
-✨ Account
+✨ TikTok Account
 
 •	Login
+
+
+✨ YouTube Channel
+
+• Subscribe
+
 
 ScrapTubes is the ideal solution to build own services.
 
@@ -72,7 +78,7 @@ In case you need a custom plan for higher-volume usage please send us a message 
 
 # 废料管
 
-ScrapTubes 是用于抓取社交媒体数据和构建高性能服务的维护最完善、可扩展且成本最低的 API 解决方案。
+ScrapTubes 是维护最频繁、可扩展且最便宜的 API 解决方案，用于抓取社交媒体数据和构建高性能服务。
 
 https://rapidapi.com/scraptubes/api/scraptubes
 
@@ -82,17 +88,15 @@ https://rapidapi.com/scraptubes/api/scraptubes
 
 • YouTube（视频、频道、播放列表、趋势）
 
-• 维密欧
+• 维梅奥
 
-• Dailymotion
+• 每日运动
 
-• 成人试管
-
+• 成人管
 
 它还包括适用于许多用例的 TikTok 签名/加密协议服务。
 
-
-✨ Tiktok 验证码求解器
+✨ 抖音验证码求解器
 
 • 滑动验证码
 
@@ -100,40 +104,42 @@ https://rapidapi.com/scraptubes/api/scraptubes
 
 • 相同对象验证码
 
-
 ✨ 抖音手机签名
 
-• X-Argus
+• X-阿格斯
 
 • X-拉登
 
-• X-戈尔工
+• X-戈尔贡
 
-• X-克罗诺斯
+• X-科罗诺斯
 
-
-✨ 抖音网签名
+✨ 抖音网络签名
 
 • msToken
 
-•	_签名
+• _签名
 
-• 伪造的
+• X-Bogus
 
 • 形状参数
 
-
-✨ 设备注册
+✨ TikTok 设备注册
 
 • TTEncrypt
 
 • MSSDK 加密/报告
 
+✨ 抖音账号
 
-✨ 账户
+• 登录
 
-•	登录
+✨ YouTube 频道
+
+• 订阅
 
 ScrapTubes 是构建自己的服务的理想解决方案。
+
+如果您需要更高容量的定制计划，请在 Telegram 上给我们发送消息 https://t.me/scraptubes
 
 如果您需要针对更高使用量的自定义计划，请在 Telegram 上给我们发送消息 https://t.me/scraptubes
