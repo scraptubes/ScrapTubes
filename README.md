@@ -141,5 +141,3 @@ https://rapidapi.com/scraptubes/api/scraptubes
 ScrapTubes 是构建自己的服务的理想解决方案。
 
 如果您需要更高容量的定制计划，请在 Telegram 上给我们发送消息 https://t.me/scraptubes
-
-如果您需要针对更高使用量的自定义计划，请在 Telegram 上给我们发送消息 https://t.me/scraptubes
