@@ -22,15 +22,6 @@ Our service includes scraping and searching data for
 It also includes a TikTok signature/encryption protocol service for many use cases.
 
 
-✨ Tiktok Captcha Solver
-
-•	Slide Captcha
-
-•	Rotate Captcha
-
-•	Same Objects Captcha
-
-
 ✨ Tiktok Mobile Signature
 
 •	X-Argus
@@ -95,14 +86,6 @@ https://rapidapi.com/scraptubes/api/scraptubes
 • 成人管
 
 它还包括适用于许多用例的 TikTok 签名/加密协议服务。
-
-✨ 抖音验证码求解器
-
-• 滑动验证码
-
-• 旋转验证码
-
-• 相同对象验证码
 
 ✨ 抖音手机签名
 
